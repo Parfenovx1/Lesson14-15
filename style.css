@@ -1,0 +1,33 @@
+.card-wrapper {
+    width: 200px;
+    height: 400px;
+    background-color: khaki;
+}
+
+.stamina-bar,
+.health-bar{
+    width: 190px;
+    height: 20px;
+    margin: 10px 5px 5px 5px;
+}
+
+.stamina-bar{
+    background-color: rgb(255, 145, 0);
+}
+
+.health-bar{
+    background-color: orangered;
+}
+
+.namePlace{
+    width: 190px;
+    height: 20px;
+    margin: 10px 5px 5px 5px;
+}
+
+.img{
+    width: 190px;
+    height: 300px;
+    margin: 5px 5px 5px 5px;
+    background-color: peru;
+}
